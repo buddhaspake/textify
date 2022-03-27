@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CONVERT PDF
+Comment=
+Exec=/home/rishima/Guests/Sambuddha/Code/Scan2Txt/convert.sh
+Icon=pdfeditor
+Path=/home/rishima/Guests/Sambuddha/Code/Scan2Txt
+Terminal=true
+StartupNotify=false
